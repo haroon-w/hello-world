@@ -1,2 +1,2 @@
 # hello-world
-Testing github and stuff
+Hello World! My name is Haroon Wahab and I love learning about git!
